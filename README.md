@@ -47,7 +47,7 @@ This concept demonstrates the future of specialized, cooperative robotic systems
 
 6. Extensible design for multi-robot simulations
    
-🛠️ Tech Stack
+# Tech Stack 🛠️ 
 
 1. ROS2 Humble
 2. Python or C++ nodes
